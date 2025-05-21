@@ -3,7 +3,6 @@
 ## Description
 Make Bleak Inlet more friendly by redistributing wood spawns to the coast and reduce and relocate some wolf spawns
 
-<img src="https://github.com/moosemeat817/images/blob/main/RemoveCougar.png" width="80%">
 
 ## Options
 - Redistribute some stick, branch, cedar and fir spawns tnear the coast
